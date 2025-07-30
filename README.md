@@ -25,6 +25,14 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
+
+
+
+
+
+
 ### 💻 Skills and Technologies
 
 
@@ -54,6 +62,10 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
           
+
+
+
+
 
 
 
