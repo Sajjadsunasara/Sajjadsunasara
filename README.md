@@ -1,15 +1,22 @@
 # Hi there 👋
 
+
 Welcome to my GitHub profile! I'm Sajjad Sunasara (he/him).
 
 ---
 
 ## About Me
 
+
+
 I’m a full stack developer with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at Valuda's Tech Park, where I worked on real-world web applications using React, Node.js, Express.js, and MySQL.
 
 
+
+
 ## 💻 Skills and Technologies
+
+
 
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -44,6 +51,8 @@ I’m a full stack developer with internship experience, currently improving my 
 
 ## 🤝 Open to working on
 
+
+
 - Collaborating on web projects
 - Open-source contributions
 - Learning from other developers
@@ -52,6 +61,8 @@ I’m a full stack developer with internship experience, currently improving my 
 
 
 ## 📬 How to Reach Me
+
+
 
 - Email: sunasarasajjad2004@gmail.com  
 - LinkedIn: [Sajjad Sunasara](linkedin.com/in/sajjad-sunasara-a6b997307)  
