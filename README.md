@@ -26,27 +26,27 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 </div>
 
 ---
-&nbsp;&nbsp;&nbsp;
+&nbsp;
 ### 📚 Currently Learning
 - MongoDB  
 - Basics of Python Language  
 - I focus on learning React in detail.
 
-&nbsp;&nbsp;
+
 
 ### 🤝 Open to working on
 - Collaborating on web projects  
 - Open-source contributions  
 - Learning from other developers
 
-&nbsp;&nbsp;
+
 
 ### 📬 How to Reach Me
 - Email: sunasarasajjad2004@gmail.com  
 - LinkedIn: [Sajjad Sunasara](https://linkedin.com/in/sajjad-sunasara-a6b997307)
 
 ---
-&nbsp;&nbsp;&nbsp;
+
 
 ### 📊 Most Used Languages
 <div align="left" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
