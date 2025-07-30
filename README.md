@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Sajjadsunasara/Sajjadsunasara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my GitHub profile!
 
-Here are some ideas to get you started:
+I’m a full stack developer with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at Valuda's Tech Park, where I worked on real-world web applications using React, Node.js, Express.js, and MySQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills and Technologies
+
+- HTML, CSS, JavaScript
+- React.js, Node.js, Express.js
+- MySQL, Git, GitHub
+- Tailwind CSS, Bootstrap
+- Postman (for API testing)
+
+---
+
+## 📚 Currently Learning
+
+- Next.js and Svelte
+- Basics of AWS and Azure
+- Introduction to Machine Learning
+
+---
+
+## 🤝 I’m Interested In
+
+- Collaborating on web projects
+- Open-source contributions
+- Learning from other developers
+
+---
+
+## 📬 Contact Me
+
+- Email: sunasarasajjad2004@gmail.com  
+- LinkedIn: [Sajjad Sunasara](linkedin.com/in/sajjad-sunasara-a6b997307)  
+
+
+---
+
+## 🎯 A Little About Me
+
+I love building websites and learning how things work. I enjoy working on both frontend and backend. When I’m not coding, I like watching tech videos, playing cricket, or reading something new.
+
+Thanks again for stopping by! 😊
