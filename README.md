@@ -155,13 +155,24 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+<h3 align="center">📊 Most Used Languages</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Express.js-70.90%25-black?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-65.07%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-65.00%25-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-58.00%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-41.03%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-28.00%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express.js-70.90%25-black?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-65.07%25-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-65.00%25-00758F?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-58.00%25-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-41.03%25-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-28.00%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/71/?title=Express.js&width=250&color=000000" />
+  <img src="https://progress-bar.dev/65/?title=React.js&width=250&color=61DAFB" />
+  <img src="https://progress-bar.dev/65/?title=MySQL&width=250&color=00758F" />
+  <img src="https://progress-bar.dev/58/?title=CSS3&width=250&color=1572B6" />
+  <img src="https://progress-bar.dev/41/?title=Node.js&width=250&color=339933" />
+  <img src="https://progress-bar.dev/28/?title=JavaScript&width=250&color=F7DF1E" />
 </p>
 
 
