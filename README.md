@@ -47,7 +47,7 @@ I’m a full stack developer with internship experience, currently improving my 
 - I focus on learning React in detail.
 
 
----
+
 
 ## 🤝 Open to working on
 
@@ -57,7 +57,7 @@ I’m a full stack developer with internship experience, currently improving my 
 - Open-source contributions
 - Learning from other developers
 
----
+
 
 
 ## 📬 How to Reach Me
