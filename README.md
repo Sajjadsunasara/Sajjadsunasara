@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm **Sajjad Sunasara** (he/him).
 
 
 
-I’m a **Full Stack Developer** with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at **Valuda's Tech Park**. where I worked on real-world web applications using React, Node.js, Express.js, and MySQL.
+I’m a **Full Stack Developer** with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at **Valuda's Tech Park**. where I worked on real-world web applications using **React, Node.js, Express.js, and MySQL**.
 
 
 
@@ -36,10 +36,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
   <img src="https://img.shields.io/badge/REACTJS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TAILWIND%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/TAILWIND%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
 </p>
-
 <p>
   <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -54,6 +52,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 ### 📚 Currently Learning
 
+
+
 - MongoDB 
 - Basics of Python Language
 - I focus on learning React in detail.
@@ -65,6 +65,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
 - Collaborating on web projects
 - Open-source contributions
 - Learning from other developers
@@ -73,6 +75,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 ### 📬 How to Reach Me
+
+
 
 
 
