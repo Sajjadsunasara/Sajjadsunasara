@@ -155,7 +155,7 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Express.js-70.90%25-black?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/React.js-65.07%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-65.00%25-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -163,6 +163,7 @@ I’m a **Full Stack Developer** with internship experience, currently improving
   <img src="https://img.shields.io/badge/Node.js-41.03%25-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-28.00%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
+
 
 
 
