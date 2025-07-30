@@ -29,6 +29,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -37,9 +39,7 @@ I’m a **Full Stack Developer** with internship experience, currently improving
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/TAILWIND%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-</p>
-<p>
-  <img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</p><p><img src="https://img.shields.io/badge/BOOTSTRAP-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/MYSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -51,6 +51,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 ---
 
 ### 📚 Currently Learning
+
+
 
 
 
@@ -67,6 +69,8 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
 - Collaborating on web projects
 - Open-source contributions
 - Learning from other developers
@@ -74,7 +78,11 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
 ### 📬 How to Reach Me
+
+
 
 
 
