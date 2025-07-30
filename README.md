@@ -26,7 +26,6 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 </div>
 
 ---
-&nbsp;
 ### 📚 Currently Learning
 - MongoDB  
 - Basics of Python Language  
