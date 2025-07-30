@@ -5,11 +5,12 @@ Welcome to my GitHub profile! I'm Sajjad Sunasara (he/him).
 
 ---
 
-## About Me
+### About Me
 
 
 
-I’m a full stack developer with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at Valuda's Tech Park, where I worked on real-world web applications using React, Node.js, Express.js, and MySQL.
+
+I’m a ### Full Stack Developer with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at Valuda's Tech Park, where I worked on real-world web applications using React, Node.js, Express.js, and MySQL.
 
 
 
