@@ -31,6 +31,12 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
+
+
+
+
+
 <div align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -48,6 +54,12 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
           
+
+
+
+
+
+
 
 ---
 
