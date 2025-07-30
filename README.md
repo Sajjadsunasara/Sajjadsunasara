@@ -4,9 +4,11 @@
 Welcome to my GitHub profile! I'm **Sajjad Sunasara** (he/him).
 
 ---
+<br/>
 
 ### About Me
 
+<br/>
 
 
 
@@ -85,7 +87,9 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 
 
 
+
 ---
+<br/>
 
 ### 📚 Currently Learning
 
@@ -98,6 +102,7 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 - I focus on learning React in detail.
 
 
+<br/>
 
 
 ### 🤝 Open to working on
@@ -112,6 +117,7 @@ I’m a **Full Stack Developer** with internship experience, currently improving
 - Open-source contributions
 - Learning from other developers
 
+<br/>
 
 
 
