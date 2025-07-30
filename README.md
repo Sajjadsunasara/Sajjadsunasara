@@ -1,64 +1,14 @@
-# Hi there 👋
-
-
+# Hi there 👋  
 Welcome to my GitHub profile! I'm **Sajjad Sunasara** (he/him).
 
 ---
-<br/>
 
 ### About Me
+I’m a **Full Stack Developer** with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at **Valuda's Tech Park**, where I worked on real-world web applications using **React, Node.js, Express.js, and MySQL**.
 
-<br/>
-
-
-
-I’m a **Full Stack Developer** with internship experience, currently improving my skills by working on small projects and learning new technologies. I recently completed a 6-month internship at **Valuda's Tech Park**. where I worked on real-world web applications using **React, Node.js, Express.js, and MySQL**.
-
-
-
-
-
-
-
-<br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ### 💻 Skills and Technologies
-
-
-
-<br/>
-
-
-
-
-
-
-
-
 <div align="left">
   <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -74,106 +24,29 @@ I’m a **Full Stack Developer** with internship experience, currently improving
   <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-
-          
-
-
-
-
-
-
-
-
-
-
-
-
 ---
-<br/>
 
 ### 📚 Currently Learning
-
-
-
-
-
-- MongoDB 
-- Basics of Python Language
+- MongoDB  
+- Basics of Python Language  
 - I focus on learning React in detail.
-
-
-<br/>
-
-
-### 🤝 Open to working on
-
-
-
-
-
-
-
-- Collaborating on web projects
-- Open-source contributions
-- Learning from other developers
-
-<br/>
-
-
-
-
-
-### 📬 How to Reach Me
-
-
-
-
-
-
-
-- Email: sunasarasajjad2004@gmail.com  
-- LinkedIn: [Sajjad Sunasara](linkedin.com/in/sajjad-sunasara-a6b997307)  
-
 
 ---
 
+### 🤝 Open to working on
+- Collaborating on web projects  
+- Open-source contributions  
+- Learning from other developers
 
+---
 
+### 📬 How to Reach Me
+- Email: sunasarasajjad2004@gmail.com  
+- LinkedIn: [Sajjad Sunasara](https://linkedin.com/in/sajjad-sunasara-a6b997307)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---
 
 ### 📊 Most Used Languages
-
-
-
-
-
-
-
-
-<br/>
-
-
-
-
-
 <div align="left" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
   <div><img src="https://img.shields.io/badge/Express.js-70.90%25-black?style=for-the-badge&logo=express&logoColor=white" /></div>
   <div><img src="https://img.shields.io/badge/React.js-65.07%25-61DAFB?style=for-the-badge&logo=react&logoColor=white" /></div>
@@ -182,12 +55,3 @@ I’m a **Full Stack Developer** with internship experience, currently improving
   <div><img src="https://img.shields.io/badge/Node.js-41.03%25-339933?style=for-the-badge&logo=node.js&logoColor=white" /></div>
   <div><img src="https://img.shields.io/badge/JavaScript-28.00%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></div>
 </div>
-
-
-
-
-
-
-
-
-
